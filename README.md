@@ -188,6 +188,6 @@ MIT License - see LICENSE file for details.
 
 ## Contact
 
-Your Name - feloh64@gmail.com
+feloh64@gmail.com
 
-Project Link: https://github.com/FiloHany/DataAnalysis-Toolkit.git
+https://github.com/FiloHany/DataAnalysis-Toolkit.git
