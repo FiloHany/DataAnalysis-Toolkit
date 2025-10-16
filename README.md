@@ -188,6 +188,6 @@ MIT License - see LICENSE file for details.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - feloh64@gmail.com
 
-Project Link: https://github.com/yourusername/data-analysis-toolkit
+Project Link: https://github.com/FiloHany/DataAnalysis-Toolkit.git
