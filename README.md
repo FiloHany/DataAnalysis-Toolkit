@@ -19,7 +19,7 @@ A professional, modular data analysis toolkit built with SOLID principles and de
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/data-analysis-toolkit.git
+git clone https://github.com/FiloHany/DataAnalysis-Toolkit.git
 cd data-analysis-toolkit
 pip install -r requirements.txt
 pip install -e .
