@@ -129,13 +129,13 @@ dmypy.json
 .pyre/
 
 # Data files
-*.csv
-*.xlsx
-*.json
-data/
-*.png
-*.jpg
-*.jpeg
+# *.csv
+# *.xlsx
+# *.json
+# data/
+# *.png
+# *.jpg
+# *.jpeg
 
 # IDE
 .vscode/
